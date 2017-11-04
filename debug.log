@@ -1,0 +1,20 @@
+[1024/141912.237:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/141912.239:ERROR:exception_snapshot_win.cc(87)] thread ID 12348 not found in process
+[1024/141912.240:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[1024/141912.240:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[1024/144946.409:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/144946.411:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/144946.412:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/144946.412:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/144946.419:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[1024/144946.420:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[1024/144946.420:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[1024/144946.421:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/144946.421:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[1024/144946.421:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[1024/144946.421:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[1024/144946.421:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[1024/144946.421:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[1024/144946.421:ERROR:exception_snapshot_win.cc(87)] thread ID 8924 not found in process
+[1024/144946.421:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[1024/144946.422:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
